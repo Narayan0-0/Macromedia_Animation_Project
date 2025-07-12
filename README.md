@@ -37,10 +37,8 @@ To run the project:
 3. Alternatively, play the `.swf` file using a Flash Player.
 
 ## 📸 Preview
+<img width="1249" height="924" alt="image" src="https://github.com/user-attachments/assets/90c75c14-572d-4fee-b1cd-068f9d086e0b" />
 
-![Preview](preview.gif)
-
-*(Include a `.gif` or screenshot of your animation for visual context.)*
 
 ## 📚 Learning Outcomes
 
@@ -51,7 +49,7 @@ To run the project:
 ## 🧑‍💻 Author
 
 **Narayan**
-[GitHub Profile](https://github.com/your-username)
+[GitHub Profile](https://github.com/Narayan0-0)
 
 ## 📜 License
 
